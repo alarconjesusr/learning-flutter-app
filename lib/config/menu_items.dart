@@ -44,4 +44,20 @@ const List<MenuItems> appMenuItems = [
     icon: Icons.smart_button,
     routeName: ButtonsScreen.name,
   ),
+  MenuItems(
+    id: 4,
+    title: 'Cards',
+    subtitle: 'Explore different cards',
+    route: '/cards',
+    icon: Icons.credit_card,
+    routeName: CardScreen.name,
+  ),
+  MenuItems(
+    id: 5,
+    title: 'Progress',
+    subtitle: 'View your progress',
+    route: '/progress',
+    icon: Icons.show_chart,
+    routeName: ProgressScreen.name,
+  ),
 ];
