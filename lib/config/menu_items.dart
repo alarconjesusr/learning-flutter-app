@@ -60,4 +60,12 @@ const List<MenuItems> appMenuItems = [
     icon: Icons.show_chart,
     routeName: ProgressScreen.name,
   ),
+  MenuItems(
+    id: 6,
+    title: 'Snackbars',
+    subtitle: 'View your snackbars',
+    route: '/snackbars',
+    icon: Icons.notifications,
+    routeName: SnackbarScreen.name,
+  ),
 ];

@@ -4,3 +4,4 @@ export 'package:widget_app/screens/settings/setting_screen.dart';
 export 'package:widget_app/screens/buttons/buttons_screen.dart';
 export 'package:widget_app/screens/cards/card_screen.dart';
 export 'package:widget_app/screens/progress/progress_screen.dart';
+export 'package:widget_app/screens/snackbars/snackbar_screen.dart';
