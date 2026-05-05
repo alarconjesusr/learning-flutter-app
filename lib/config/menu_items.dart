@@ -68,4 +68,12 @@ const List<MenuItems> appMenuItems = [
     icon: Icons.notifications,
     routeName: SnackbarScreen.name,
   ),
+  MenuItems(
+    id: 7,
+    title: 'Animated Container',
+    subtitle: 'Explore animated containers',
+    route: '/animated-container',
+    icon: Icons.animation,
+    routeName: AnimatedContainerScreen.name,
+  ),
 ];

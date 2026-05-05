@@ -5,3 +5,4 @@ export 'package:widget_app/screens/buttons/buttons_screen.dart';
 export 'package:widget_app/screens/cards/card_screen.dart';
 export 'package:widget_app/screens/progress/progress_screen.dart';
 export 'package:widget_app/screens/snackbars/snackbar_screen.dart';
+export 'package:widget_app/screens/animated_container/animated_container_screen.dart';
