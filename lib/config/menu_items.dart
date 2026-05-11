@@ -76,4 +76,20 @@ const List<MenuItems> appMenuItems = [
     icon: Icons.animation,
     routeName: AnimatedContainerScreen.name,
   ),
+  MenuItems(
+    id: 8,
+    title: 'Ui Controls',
+    subtitle: 'Explore UI controls',
+    route: '/ui-controls',
+    icon: Icons.widgets,
+    routeName: UiControlsScreen.name,
+  ),
+  MenuItems(
+    id: 9,
+    title: 'Presentation',
+    subtitle: 'Explore presentations',
+    route: '/presentation',
+    icon: Icons.slideshow,
+    routeName: PresentationScreen.name,
+  ),
 ];
