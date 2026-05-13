@@ -92,4 +92,12 @@ const List<MenuItems> appMenuItems = [
     icon: Icons.slideshow,
     routeName: PresentationScreen.name,
   ),
+  MenuItems(
+    id: 10,
+    title: 'Scroll infinity',
+    subtitle: 'Explore infinite scrolling',
+    route: '/scroll-infinity',
+    icon: Icons.screen_lock_landscape_sharp,
+    routeName: ScrollInfinityScreen.name,
+  ),
 ];

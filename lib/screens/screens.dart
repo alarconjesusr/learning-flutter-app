@@ -8,3 +8,4 @@ export 'package:widget_app/screens/snackbars/snackbar_screen.dart';
 export 'package:widget_app/screens/animated_container/animated_container_screen.dart';
 export 'package:widget_app/screens/ui_controls/ui_controls_screen.dart';
 export 'package:widget_app/screens/presentations/presentation_screen.dart';
+export 'package:widget_app/screens/scrolls/scroll_infinity_screen.dart';
